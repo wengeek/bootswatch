@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺'),
+        url(Ubuntu_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/ubuntu/v9/_xyN3apAT_yRRDeqB3sPRg.woff */
+        url(Ubuntu_400_normal.ttf) format('truetype') /* http://fonts.gstatic.com/s/ubuntu/v9/2Q-AW1e_taO6pHwMXcXW5w.ttf */
+}
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺'),
+        url(Ubuntu_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/ubuntu/v9/0ihfXUL2emPh0ROJezvraD8E0i7KZn-EPnyo3HZu7kw.woff */
+        url(Ubuntu_700_normal.ttf) format('truetype') /* http://fonts.gstatic.com/s/ubuntu/v9/0ihfXUL2emPh0ROJezvraKCWcynf_cDxXwCLxiixG1c.ttf */
+}
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: local('☺'),
+        url(Ubuntu_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/ubuntu/v9/_xyN3apAT_yRRDeqB3sPRg.woff */
+        url(Ubuntu_400_normal.ttf) format('truetype') /* http://fonts.gstatic.com/s/ubuntu/v9/sVvvcJDRTINJla2R4XwPVevvDin1pK8aKteLpeZ5c0A.ttf */
+}
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    src: local('☺'),
+        url(Ubuntu_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/ubuntu/v9/0ihfXUL2emPh0ROJezvraD8E0i7KZn-EPnyo3HZu7kw.woff */
+        url(Ubuntu_700_normal.ttf) format('truetype') /* http://fonts.gstatic.com/s/ubuntu/v9/0ihfXUL2emPh0ROJezvraCZ2oysoEQEeKwjgmXLRnTc.ttf */
+}
